@@ -6,7 +6,6 @@
 
 I'm a *dynamic Backend Web Developer* based in Cyberjaya, Selangor, Malaysia, with over 3 years of experience specializing in Django and FastAPI. I excel in developing robust management systems for e-commerce, automating workflows, and integrating various APIs. My focus is on optimizing operations and enhancing user experiences.
 
-![Backend Development]()
 
 - 📍 *Location:* Cyberjaya, Selangor, Malaysia
 - 📞 *Phone:* +601163674517
@@ -14,7 +13,7 @@ I'm a *dynamic Backend Web Developer* based in Cyberjaya, Selangor, Malaysia, wi
 
 ## 🛠️ My Skills
 
-- *Backend Development:* ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white), ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white), Django Rest Framework (DRF), ORM
+- *Backend Development:* ![Python](https://img.shields.io/badge/-Python-009688?logo=python&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white), ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white), Django Rest Framework (DRF), ORM
 - *Automation:* Celery, Supervisorctl, Selenium
 - *APIs:* Meta Graph API, Google APIs, Shopify APIs, OpenAI API
 - *Databases:* PostgreSQL
