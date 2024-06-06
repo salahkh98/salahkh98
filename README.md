@@ -1,6 +1,6 @@
 # Hi there, I'm Salahaldin Khalil! 👋
 
-![Banner](https://yourimageurl.com/banner.png)
+![Banner]()
 
 ## 🚀 About Me
 
