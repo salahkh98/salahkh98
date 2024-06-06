@@ -1,71 +1,61 @@
-
 ![Header](./github-header-image.png)
-
 
 ## 🚀 About Me
 
-I'm a *Backend Web / python Developer* based in Cyberjaya, Selangor, Malaysia, with over 3 years of experience specializing in Django and FastAPI. I excel in developing robust management systems for e-commerce, automating workflows, and integrating various APIs. My focus is on optimizing operations and enhancing user experiences.
+I'm a Backend Web / Python Developer and Digital Marketing Engineer based in Cyberjaya, Selangor, Malaysia, with over 3 years of experience specializing in Django and FastAPI. Currently, I'm expanding my skills to include Flask for Python development while also exploring cloud ecosystems and microservices architectures.
 
-
-- 📍 *Location:* Cyberjaya, Selangor, Malaysia
-- 📞 *Phone:* +601163674517
-- 📧 *Email:* [salahyaseen484@gmail.com](mailto:salahyaseen484@gmail.com)
+- 📍 Location: Cyberjaya, Selangor, Malaysia
+- 📞 Phone: +601163674517
+- 📧 Email: [salahyaseen484@gmail.com](mailto:salahyaseen484@gmail.com)
 
 ## 🛠️ My Skills
 
-- *Backend Development:* ![Python](https://img.shields.io/badge/-Python-009688?logo=python&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white), ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white), Django Rest Framework (DRF), ORM
-- *Automation:* Celery, Supervisorctl, Selenium
-- *APIs:* Meta Graph API, Google APIs, Shopify APIs, OpenAI API
-- *Databases:* PostgreSQL
-- *Web Technologies:* ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), HTMX, Tailwind CSS, Bootstrap
-- *Version Control:* ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- *Server Management:* Apache2, Nginx, Debian
-- *Other Tools:* Beautiful Soup, Google Scripts
-
-
+- Backend Development: ![Python](https://img.shields.io/badge/-Python-009688?logo=python&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white), ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white), Flask (Learning)
+- Cloud Ecosystems: Redis, RabbitMQ, PostgreSQL (Experienced), MongoDB (Learning)
+- Microservices and Event-Driven Architecture: Celery (Experienced), Flask (Learning)
+- CI/CD Workflows: Jenkins, GitHub Actions, Travis CI (Learning)
+- Git Source Code Management: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- Docker and Kubernetes: Basics (Learning)
+- API Development and SQL Queries: Flask (Learning), PostgreSQL (Experienced)
+- Digital Marketing Automation: Developed automated posting and ad management tools using Python
 
 ## 🌟 Professional Experience
 
 ### Python Developer | Fawri E-commerce Startup
-*Dec 2021 – Present*
+Dec 2021 – Present
 
-- Developed a comprehensive management system using Django and FastAPI, featuring:
-  - *Data Scraping:* Automated data extraction from providers like Shein and Amazon.
-  - *Database Management:* Managed PostgreSQL databases for products, orders, and customers.
-  - *Automation:* Utilized Celery and Supervisorctl to automate social media content creation using Meta Graph API.
-  - *API Integrations:* Integrated Shopify, Google Drive, and Google Sheets APIs for data management.
-  - *Order Processing:* Automated order handling using Selenium.
-  - *Customer Interaction:* Used Meta APIs to provide order updates and optimize ads and content.
-  - *Content Automation:* Developed tools to generate content based on top-selling products.
-  - *Analytics & Reporting:* Tracked sales, customer interactions, and post-performance for social media pages.
-  - *Order Automation:* Managed order processing, vendor cart, and notifications.
-  - *Returns Management:* Automated handling of returned products, updating inventory for resale.
-  - *Inventory Management:* Real-time scraping to update available sizes from vendors.
-  - *Dashboard Development:* Created dashboards to visualize sales, customer data, and performance metrics.
+- Developed a comprehensive management system using Django and FastAPI.
+- Designed and implemented automated digital marketing solutions to enhance product showcasing and customer engagement.
 
 ## 📈 Key Projects
 
-- *Fawri Management System:* A robust system for managing e-commerce operations, integrating multiple APIs, and automating workflows. [Fawri](https://fawri-f7ab5f0e45b8.herokuapp.com/app/login)
-- *ShopXPS:* Developed backend services to enhance e-commerce functionalities and user management. [ShopXPS](https://shopxps.net/)
+### Fawri Management System
+A robust system for managing e-commerce operations, integrating multiple APIs, and automating workflows.
+- [Fawri](https://fawri-f7ab5f0e45b8.herokuapp.com/app/login)
 
+### ShopXPS
+Developed backend services to enhance e-commerce functionalities and user management.
+- [ShopXPS](https://shopxps.net/)
 
+### Digital Marketing Automation System
+Designed and developed an automated system for posting on social media platforms and managing advertisements using Python.
+- Automated posting to various social media platforms
+- Automated ad management to optimize product visibility and customer engagement
 
 ## 📚 Education
 
-*Bachelor’s Degree in Information Technology*  
+Bachelor’s Degree in Information Technology  
 Limkokwing University, Malaysia  
 May 2017 - October 2020
 
 ## 🌐 Languages
 
-- *English:* Fluent
-- *Arabic:* Native
+- English: Fluent
+- Arabic: Native
 
-
-I'm always open to connecting with fellow developers and industry professionals. Feel free to reach out if you have any advice, resources, or just want to chat about backend development and AI!
+I'm currently focusing on expanding my skills in Flask, cloud ecosystems like MongoDB, and CI/CD workflows using tools like Jenkins and GitHub Actions. I'm enthusiastic about learning and adapting to new technologies, and I'm eager to contribute my expertise to innovative projects.
 
 ---
-
 
 ## 📄 References
 
