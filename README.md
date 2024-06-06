@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a *dynamic Backend Web Developer* based in Cyberjaya, Selangor, Malaysia, with over 3 years of experience specializing in Django and FastAPI. I excel in developing robust management systems for e-commerce, automating workflows, and integrating various APIs. My focus is on optimizing operations and enhancing user experiences.
+I'm a *Backend Web / python Developer* based in Cyberjaya, Selangor, Malaysia, with over 3 years of experience specializing in Django and FastAPI. I excel in developing robust management systems for e-commerce, automating workflows, and integrating various APIs. My focus is on optimizing operations and enhancing user experiences.
 
 
 - 📍 *Location:* Cyberjaya, Selangor, Malaysia
@@ -66,11 +66,6 @@ I'm always open to connecting with fellow developers and industry professionals.
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 ## 📄 References
 
