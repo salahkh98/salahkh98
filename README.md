@@ -22,7 +22,7 @@ I'm a *dynamic Backend Web Developer* based in Cyberjaya, Selangor, Malaysia, wi
 - *Server Management:* Apache2, Nginx, Debian
 - *Other Tools:* Beautiful Soup, Google Scripts
 
-![Skills](https://yourimageurl.com/skills.png)
+
 
 ## 🌟 Professional Experience
 
@@ -45,10 +45,10 @@ I'm a *dynamic Backend Web Developer* based in Cyberjaya, Selangor, Malaysia, wi
 
 ## 📈 Key Projects
 
-- *Fawri Management System:* A robust system for managing e-commerce operations, integrating multiple APIs, and automating workflows. [Fawri](https://www.fawri.co)
+- *Fawri Management System:* A robust system for managing e-commerce operations, integrating multiple APIs, and automating workflows. [Fawri](https://fawri-f7ab5f0e45b8.herokuapp.com/app/login)
 - *ShopXPS:* Developed backend services to enhance e-commerce functionalities and user management. [ShopXPS](https://shopxps.net/)
 
-![Projects](https://yourimageurl.com/projects.png)
+
 
 ## 📚 Education
 
@@ -61,13 +61,6 @@ May 2017 - October 2020
 - *English:* Fluent
 - *Arabic:* Native
 
-![Languages](https://yourimageurl.com/languages.png)
-
-## 📬 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-- [![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/yourusername)
 
 I'm always open to connecting with fellow developers and industry professionals. Feel free to reach out if you have any advice, resources, or just want to chat about backend development and AI!
 
