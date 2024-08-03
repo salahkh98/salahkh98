@@ -4,8 +4,8 @@
 
 I'm a Backend Web / Python Developer and Digital Marketing Engineer based in Cyberjaya, Selangor, Malaysia, with over 3 years of experience specializing in Django and FastAPI. Currently, I'm expanding my skills to include Flask for Python development while also exploring cloud ecosystems and microservices architectures.
 
-- 📍 Location: Cyberjaya, Selangor, Malaysia
-- 📞 Phone: +601163674517
+- 📍 Location: Ramallah, west-bank, Palestine
+- 📞 Phone: +972569654969
 - 📧 Email: [salahyaseen484@gmail.com](mailto:salahyaseen484@gmail.com)
 
 ## 🛠️ My Skills
