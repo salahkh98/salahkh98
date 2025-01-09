@@ -2,10 +2,9 @@
 
 ## 🚀 About Me
 
-I'm a Backend Web / Python Developer and Digital Marketing Engineer based in Cyberjaya, Selangor, Malaysia, with over 3 years of experience specializing in Django and FastAPI. Currently, I'm expanding my skills to include Flask for Python development while also exploring cloud ecosystems and microservices architectures.
+I'm a Backend Web / Python Developer and Digital Marketing Engineer, with over 3 years of experience specializing in Django and FastAPI. Currently, I'm expanding my skills to include Flask for Python development while also exploring cloud ecosystems and microservices architectures.
 
 - 📍 Location: Ramallah, west-bank, Palestine
-- 📞 Phone: +972569654969
 - 📧 Email: [salahyaseen484@gmail.com](mailto:salahyaseen484@gmail.com)
 
 ## 🛠️ My Skills
@@ -31,11 +30,11 @@ Dec 2021 – Present
 
 ### Fawri Management System
 A robust system for managing e-commerce operations, integrating multiple APIs, and automating workflows.
-- [Fawri](https://fawri-f7ab5f0e45b8.herokuapp.com/app/login)
+- [Fawri]
 
 ### ShopXPS
 Developed backend services to enhance e-commerce functionalities and user management.
-- [ShopXPS](https://shopxps.net/)
+- [ShopXPS]
 
 ### Digital Marketing Automation System
 Designed and developed an automated system for posting on social media platforms and managing advertisements using Python.
